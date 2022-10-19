@@ -1,1 +1,1 @@
-# image_deblurring_conv_ae
+# Restoring blur images using denoising convolutional autoencoder
